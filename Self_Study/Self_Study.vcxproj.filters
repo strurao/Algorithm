@@ -24,5 +24,8 @@
     <ClInclude Include="Chap03,11_Greedy.h">
       <Filter>소스 파일</Filter>
     </ClInclude>
+    <ClInclude Include="Chap04,12_Implementation.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
