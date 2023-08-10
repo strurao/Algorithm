@@ -12,8 +12,8 @@ void heapSort(vector<int>& arr) {
     }
     // 힙에 삽입된 모든 원소를 차례대로 꺼내어 출력
     while (!h.empty()) {
-        printf("%d\n", -h.top());
-        h.pop();
+        printf("%d\n", -h.top());  // 30 20 10
+        h.pop(); 
     }
 }
 
@@ -21,11 +21,11 @@ int n;
 vector<int> arr;
 
 int main() {
-    cin >> n; // 10 20 30
+    cin >> n; // 3
     for (int i = 0; i < n; i++) {
         int x;
-        scanf("%d", &x);
+        scanf("%d", &x); // 10 20 30
         arr.push_back(x);
     }
-    heapSort(arr); // 30 20 10
+    heapSort(arr);
 }
