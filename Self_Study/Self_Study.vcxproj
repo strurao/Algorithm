@@ -134,6 +134,7 @@
     <ClCompile Include="11-2.cpp" />
     <ClCompile Include="03-1.cpp" />
     <ClCompile Include="03-4.cpp" />
+    <ClCompile Include="12-2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Chap03,11_Greedy.h" />
