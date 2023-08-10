@@ -127,7 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Team_NumberTheory.cpp" />
+    <ClCompile Include="binomialCoefficient.cpp" />
+    <ClCompile Include="gcd_lcm.cpp" />
+    <ClCompile Include="isPrimeNumber.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

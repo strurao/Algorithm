@@ -15,7 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Team_NumberTheory.cpp">
+    <ClCompile Include="binomialCoefficient.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="gcd_lcm.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="isPrimeNumber.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
