@@ -130,6 +130,7 @@
     <ClCompile Include="04-1.cpp" />
     <ClCompile Include="04-2.cpp" />
     <ClCompile Include="04-3.cpp" />
+    <ClCompile Include="05-3.cpp" />
     <ClCompile Include="11-1.cpp" />
     <ClCompile Include="11-2.cpp" />
     <ClCompile Include="03-1.cpp" />
