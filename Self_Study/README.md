@@ -13,5 +13,5 @@ for (int i=0; i<n, i++){
 }
 ```
 
-- 행렬 구분
+- 행렬 구분 : 행(가로줄개수)(y), 열(세로줄개수)(x)
 <img width="849" alt="스크린샷 2023-08-13 오후 7 30 10" src="https://github.com/strurao/Algorithm/assets/126440235/8f549a3a-c69d-4f18-9732-6d8f16cbcc20">
