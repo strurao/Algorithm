@@ -118,3 +118,35 @@ int main(void) {
         cout << result + 1 << '\n'; // 사용자 친화적 UI라고 생각하면 된다
     }
 }
+
+////////////////////////////////////////
+/* 
+C++ STL lower_bound, upper_bound
+정렬된 컨테이너에서 특정 값을 찾거나 범위를 찾는 데 사용 
+*/
+
+int main() {
+    vector<int> arr = { 1, 2, 2, 2, 3, 4, 5, 5, 6 };
+
+    // lower_bound 사용 예시
+    int target = 2;
+    auto lower = lower_bound(arr.begin(), arr.end(), target);
+    if (lower != arr.end() && *lower == target) {
+        cout << "lower_bound: Found " << target << " at index " << (lower - arr.begin()) << endl;
+    }
+    else {
+        cout << "lower_bound: Element " << target << " not found." << endl;
+    }
+
+    // upper_bound 사용 예시
+    target = 5;
+    auto upper = upper_bound(arr.begin(), arr.end(), target);
+    if (upper != arr.end() && *upper == target) {
+        cout << "upper_bound: Found " << target << " at index " << (upper - arr.begin()) << endl;
+    }
+    else {
+        cout << "upper_bound: Element " << target << " not found." << endl;
+    }
+
+    return 0;
+}
