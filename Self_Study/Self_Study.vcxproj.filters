@@ -52,6 +52,9 @@
     <ClCompile Include="15-1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="08-1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Chap03,11_Greedy.h">
@@ -61,6 +64,9 @@
       <Filter>소스 파일</Filter>
     </ClInclude>
     <ClInclude Include="Chap15_BinarySearch.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Chap08,16_DP.h">
       <Filter>소스 파일</Filter>
     </ClInclude>
   </ItemGroup>

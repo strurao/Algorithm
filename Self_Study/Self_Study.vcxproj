@@ -136,6 +136,7 @@
     <ClCompile Include="06-4.cpp" />
     <ClCompile Include="07-1.cpp" />
     <ClCompile Include="07-3.cpp" />
+    <ClCompile Include="08-1.cpp" />
     <ClCompile Include="11-1.cpp" />
     <ClCompile Include="11-2.cpp" />
     <ClCompile Include="03-1.cpp" />
@@ -146,6 +147,7 @@
   <ItemGroup>
     <ClInclude Include="Chap03,11_Greedy.h" />
     <ClInclude Include="Chap04,12_Implementation.h" />
+    <ClInclude Include="Chap08,16_DP.h" />
     <ClInclude Include="Chap15_BinarySearch.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
