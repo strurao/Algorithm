@@ -135,6 +135,7 @@
     <ClCompile Include="06-1.cpp" />
     <ClCompile Include="06-4.cpp" />
     <ClCompile Include="07-1.cpp" />
+    <ClCompile Include="07-3.cpp" />
     <ClCompile Include="11-1.cpp" />
     <ClCompile Include="11-2.cpp" />
     <ClCompile Include="03-1.cpp" />
