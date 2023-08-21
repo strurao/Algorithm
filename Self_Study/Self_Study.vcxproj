@@ -139,6 +139,7 @@
     <ClCompile Include="08-1.cpp" />
     <ClCompile Include="08-2.cpp" />
     <ClCompile Include="08-3.cpp" />
+    <ClCompile Include="08-5.cpp" />
     <ClCompile Include="11-1.cpp" />
     <ClCompile Include="11-2.cpp" />
     <ClCompile Include="03-1.cpp" />
