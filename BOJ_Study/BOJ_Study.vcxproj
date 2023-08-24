@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="BOJ_Study.cpp" />
+    <ClCompile Include="string-10809.cpp" />
     <ClCompile Include="string-11654.cpp" />
     <ClCompile Include="string-11720.cpp" />
   </ItemGroup>
