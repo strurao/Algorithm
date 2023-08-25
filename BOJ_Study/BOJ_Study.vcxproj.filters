@@ -103,5 +103,8 @@
     <ClCompile Include="loop-2439.cpp">
       <Filter>소스 파일\loop</Filter>
     </ClCompile>
+    <ClCompile Include="io4-2475.cpp">
+      <Filter>소스 파일\io/사칙연산</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
