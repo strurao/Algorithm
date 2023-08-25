@@ -5,40 +5,46 @@
       <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
       <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
     </Filter>
+    <Filter Include="소스 파일\string">
+      <UniqueIdentifier>{45d1fff5-3266-4182-9330-f984489688f1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="BOJ_Study.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="string-11654.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="string-11720.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="string-10809.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="string-2675.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="string-1152.cpp">
+      <Filter>소스 파일\string</Filter>
     </ClCompile>
     <ClCompile Include="string-1157.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="string-1152.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="string-2908.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="string-5622.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="string-2941.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\string</Filter>
     </ClCompile>
     <ClCompile Include="string-1316.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\string</Filter>
+    </ClCompile>
+    <ClCompile Include="string-2675.cpp">
+      <Filter>소스 파일\string</Filter>
+    </ClCompile>
+    <ClCompile Include="string-2908.cpp">
+      <Filter>소스 파일\string</Filter>
+    </ClCompile>
+    <ClCompile Include="string-2941.cpp">
+      <Filter>소스 파일\string</Filter>
+    </ClCompile>
+    <ClCompile Include="string-5622.cpp">
+      <Filter>소스 파일\string</Filter>
+    </ClCompile>
+    <ClCompile Include="string-10809.cpp">
+      <Filter>소스 파일\string</Filter>
+    </ClCompile>
+    <ClCompile Include="string-11654.cpp">
+      <Filter>소스 파일\string</Filter>
+    </ClCompile>
+    <ClCompile Include="string-11720.cpp">
+      <Filter>소스 파일\string</Filter>
+    </ClCompile>
+    <ClCompile Include="string-27866.cpp">
+      <Filter>소스 파일\string</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
