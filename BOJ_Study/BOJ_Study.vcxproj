@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="io4-1000.cpp" />
+    <ClCompile Include="io4-1008.cpp" />
     <ClCompile Include="io4-2557.cpp" />
     <ClCompile Include="string-10809.cpp" />
     <ClCompile Include="string-1152.cpp" />
