@@ -18,4 +18,14 @@ int main()
 	string s;
 
 	getline(cin, s); // 공백을 포함해서 문자열을 받을 수 있다
+	l = s.length();
+	count = 0; // 단어갯수 카운트
+	for (i = 0; i < l; i++)
+	{
+		if (s[i] == ' ') count++; // 공백문자라면 단어갯수 카운트 증가
+	}
+	if (s[0] == ' ') count--; // 첫글자나 마지막 글자가 공백이면 카운트 감소
+	if (s[l - 1] == ' ')count--;
+	cout << count + 1; // 단어개수 출력: 공백수 + 1
+	return 0;
 }
