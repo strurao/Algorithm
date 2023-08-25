@@ -136,6 +136,7 @@
     <ClCompile Include="io4-2557.cpp" />
     <ClCompile Include="loop-10951.cpp" />
     <ClCompile Include="loop-10952.cpp" />
+    <ClCompile Include="loop-2438.cpp" />
     <ClCompile Include="string-10809.cpp" />
     <ClCompile Include="string-10988.cpp" />
     <ClCompile Include="string-1152.cpp" />
