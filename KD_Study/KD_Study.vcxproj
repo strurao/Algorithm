@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{1ff93e61-1b11-4097-bbef-b557326e8ce9}</ProjectGuid>
-    <RootNamespace>BOJStudy</RootNamespace>
+    <ProjectGuid>{410828d3-abf1-4915-a12b-343a38bc46f1}</ProjectGuid>
+    <RootNamespace>KDStudy</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,15 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="BOJ_Study.cpp" />
-    <ClCompile Include="string-10809.cpp" />
-    <ClCompile Include="string-1152.cpp" />
-    <ClCompile Include="string-1157.cpp" />
-    <ClCompile Include="string-11654.cpp" />
-    <ClCompile Include="string-11720.cpp" />
-    <ClCompile Include="string-2675.cpp" />
-    <ClCompile Include="string-2908.cpp" />
-    <ClCompile Include="string-5622.cpp" />
+    <ClCompile Include="KD_Study.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
