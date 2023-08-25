@@ -141,6 +141,7 @@
     <ClCompile Include="loop-10952.cpp" />
     <ClCompile Include="loop-2438.cpp" />
     <ClCompile Include="loop-2439.cpp" />
+    <ClCompile Include="loop-2739.cpp" />
     <ClCompile Include="string-10809.cpp" />
     <ClCompile Include="string-10988.cpp" />
     <ClCompile Include="string-1152.cpp" />
