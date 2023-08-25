@@ -11,6 +11,9 @@
     <Filter Include="소스 파일\io/사칙연산">
       <UniqueIdentifier>{500b5414-91b3-4d3c-a934-60c44872a2e3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\loop">
+      <UniqueIdentifier>{9016a0c8-f05c-440b-bc9a-6cd81d5cfdd5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="string-1152.cpp">
@@ -81,6 +84,9 @@
     </ClCompile>
     <ClCompile Include="string-2866.cpp">
       <Filter>소스 파일\string</Filter>
+    </ClCompile>
+    <ClCompile Include="loop-10951.cpp">
+      <Filter>소스 파일\loop</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
