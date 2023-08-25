@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="BOJ_Study.cpp" />
+    <ClCompile Include="io4-2557.cpp" />
     <ClCompile Include="string-10809.cpp" />
     <ClCompile Include="string-1152.cpp" />
     <ClCompile Include="string-1157.cpp" />

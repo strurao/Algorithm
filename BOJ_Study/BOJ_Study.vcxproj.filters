@@ -8,11 +8,11 @@
     <Filter Include="소스 파일\string">
       <UniqueIdentifier>{45d1fff5-3266-4182-9330-f984489688f1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\io/사칙연산">
+      <UniqueIdentifier>{500b5414-91b3-4d3c-a934-60c44872a2e3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BOJ_Study.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="string-1152.cpp">
       <Filter>소스 파일\string</Filter>
     </ClCompile>
@@ -54,6 +54,9 @@
     </ClCompile>
     <ClCompile Include="string-11718.cpp">
       <Filter>소스 파일\string</Filter>
+    </ClCompile>
+    <ClCompile Include="io4-2557.cpp">
+      <Filter>소스 파일\io/사칙연산</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
