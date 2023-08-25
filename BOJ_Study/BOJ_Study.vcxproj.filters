@@ -52,5 +52,8 @@
     <ClCompile Include="string-9086.cpp">
       <Filter>소스 파일\string</Filter>
     </ClCompile>
+    <ClCompile Include="string-11718.cpp">
+      <Filter>소스 파일\string</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

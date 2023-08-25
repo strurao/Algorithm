@@ -132,6 +132,7 @@
     <ClCompile Include="string-1152.cpp" />
     <ClCompile Include="string-1157.cpp" />
     <ClCompile Include="string-11654.cpp" />
+    <ClCompile Include="string-11718.cpp" />
     <ClCompile Include="string-11720.cpp" />
     <ClCompile Include="string-1316.cpp" />
     <ClCompile Include="string-2675.cpp" />
