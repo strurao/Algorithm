@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="condition-1330.cpp" />
     <ClCompile Include="io4-1000.cpp" />
     <ClCompile Include="io4-1008.cpp" />
     <ClCompile Include="io4-10171.cpp" />
