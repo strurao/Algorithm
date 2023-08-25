@@ -5,7 +5,8 @@
 
 ## 🖋 **Commit Convetion Rule**
 - **알고리즘 풀이 커밋**은 다음의 형식을 따릅니다. ``Chapter Number`` - ``알파벳(또는 번호)`` - ``문제 고유 번호(또는 이름)`` - ``스터디날짜``
-  - 📂 BOJ_Study 예 : ``Chap01-A-2309-230101``
+  - 📂 KD_Study 예 : ``Chap01-A-2309-230101`` 
+  - 📂 BOJ_Study 예 : ``10809-알파벳 찾기-230824``
   - 📂 Self_Study 예 : ``Chap03-1-거스름돈-230101``
  
 - **알고리즘 설명 커밋**은 ``Comment: 알고리즘 이름`` 으로 두 프로젝트에서 통일합니다.
@@ -14,7 +15,7 @@
 - **팀 노트 커밋**은 ``Team: 분야-제목`` 으로 통일합니다. 
   - 예 :  ``Team: DS-HeapSort`` 
 
-## 📂 BOJ_Study
+## 📂 KD_Study
 Chap 01. 문자열, 누적합, 구현
 
 Chap 02. 그래프이론, DFS, BFS
@@ -30,6 +31,9 @@ Chap 06. 이분탐색과 LIS
 Chap 07. DP
 
 Chap 08. 펜윅트리, 최단거리
+
+## 📂 BOJ_Study
+[백준 온라인 저지 - 단계별로 풀어보기](https://www.acmicpc.net/step)
 
 ## 📂 Self_Study
 [참고한 책: 이것이 코딩테스트다 with 파이썬](https://www.yes24.com/Product/Goods/91433923)
