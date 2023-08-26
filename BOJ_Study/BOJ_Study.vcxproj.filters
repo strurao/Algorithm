@@ -142,5 +142,8 @@
     <ClCompile Include="array1-2920.cpp">
       <Filter>소스 파일\array1</Filter>
     </ClCompile>
+    <ClCompile Include="io4-3052.cpp">
+      <Filter>소스 파일\io/사칙연산</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
