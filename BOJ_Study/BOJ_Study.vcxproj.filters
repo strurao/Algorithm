@@ -163,5 +163,8 @@
     <ClCompile Include="bruteforce-2798.cpp">
       <Filter>소스 파일\brute force</Filter>
     </ClCompile>
+    <ClCompile Include="string-1259.cpp">
+      <Filter>소스 파일\string</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
