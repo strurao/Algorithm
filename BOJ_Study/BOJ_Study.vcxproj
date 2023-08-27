@@ -137,6 +137,7 @@
     <ClCompile Include="io4-10250.cpp" />
     <ClCompile Include="io4-10869.cpp" />
     <ClCompile Include="io4-10926.cpp" />
+    <ClCompile Include="io4-1978.cpp" />
     <ClCompile Include="io4-2475.cpp" />
     <ClCompile Include="io4-25083.cpp" />
     <ClCompile Include="io4-2557.cpp" />
