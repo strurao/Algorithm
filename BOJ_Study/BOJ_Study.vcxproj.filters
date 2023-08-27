@@ -154,5 +154,8 @@
     <ClCompile Include="io4-10250.cpp">
       <Filter>소스 파일\io/사칙연산</Filter>
     </ClCompile>
+    <ClCompile Include="io4-4153.cpp">
+      <Filter>소스 파일\io/사칙연산</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
