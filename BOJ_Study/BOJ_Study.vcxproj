@@ -130,6 +130,7 @@
     <ClCompile Include="array1-10818.cpp" />
     <ClCompile Include="array1-2920.cpp" />
     <ClCompile Include="bruteforce-1522.cpp" />
+    <ClCompile Include="bruteforce-2798.cpp" />
     <ClCompile Include="condition-1330.cpp" />
     <ClCompile Include="io4-1000.cpp" />
     <ClCompile Include="io4-1008.cpp" />
