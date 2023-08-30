@@ -1,6 +1,6 @@
 # Algorithm Study
 
-🗓 **Since**
+## 🗓 **Since**
 - 2023.08.09 ~
 
 ## 🖋 **Commit Convetion Rule**
