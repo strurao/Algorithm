@@ -7,11 +7,10 @@ typedef long long ll;
 ll a, b, c;
 ll go(ll a, ll b)
 {
-	if (b == 1) return a % c;
+	if (b == 1) return a % c; // ±âÀú»ç·Ê
 	ll ret = go(a, b / 2);
 	ret = (ret * ret) % c;
-	
-	if (b % 2) ret = (ret * a) % c;
+	if (b % 2) ret = (ret * a) % c; // È¦¼öÇÏ¸é ÇÑ¹ø ´õ °öÇØÁà¾ß ÇÑ´Ù
 	return ret;
 }
 
