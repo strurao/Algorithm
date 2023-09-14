@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Programmers-BFS-게임맵최단거리.cpp" />
+    <ClCompile Include="Programmers-DFS,백트래킹-단어변환.cpp" />
     <ClCompile Include="Programmers-DFS-네트워크.cpp" />
     <ClCompile Include="Programmers-DFS-타겟넘버.cpp" />
     <ClCompile Include="Programmers_Study.cpp" />

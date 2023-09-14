@@ -27,5 +27,8 @@
     <ClCompile Include="Programmers-DFS-타겟넘버.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Programmers-DFS,백트래킹-단어변환.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
