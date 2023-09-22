@@ -55,11 +55,11 @@ Chap 09. 최단 경로
 
 Chap 10. 그래프 이론
 
-Chap 11. 그리디 문제
+Chap 11. 그리디 
 
-Chap 12. 구현 문제
+Chap 12. 구현 
 
-Chap 13. DFS/BFS 문제
+Chap 13. DFS/BFS 
 
 Chap 14. 정렬 문제
 
